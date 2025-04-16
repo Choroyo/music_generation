@@ -44,18 +44,34 @@ def build_encoder_decoder_model(vocab_size, mode="bert-gpt2"):
         model_config = EncoderDecoderConfig.from_encoder_decoder_configs(encoder_config, decoder_config)
         model = EncoderDecoderModel(config=model_config)
 
+    elif mode == "gpt2-gpt2":
+        encoder_config = GPT2Config(
+            vocab_size=vocab_size,
+            n_layer=6, n_head=8, n_embd=512,  # You can customize
+            add_cross_attention=False  # Encoder doesn't use this
+        )
+
+        decoder_config = GPT2Config(
+            vocab_size=vocab_size,
+            n_layer=6, n_head=8, n_embd=512,
+            is_decoder=True,
+            add_cross_attention=True  # Decoder needs this to attend to encoder
+        )
+        decoder = GPT2LMHeadModel(decoder_config)
+        # Build encoder-decoder model
+        model = EncoderDecoderModel(encoder=encoder, decoder=decoder)
     else:
         raise ValueError("Unknown model type")
 
     return model
 
 # === Main training ===
-def train(tokenizer,vocab_size,model_dir,models ="bert-gpt2"):
+def train(tokenizer,vocab_size,model_dir,dataset_dir, models ="bert-gpt2"):
     # Load tokenizer
     tokenizer = yttm.BPE(model=tokenizer)
 
-    # Create dataset
-    dataset = ABCDataset(tokenizer, DATA_FILE)
+    # Load dataset
+    dataset = torch.load(dataset_dir)
     
     print(f"[INFO] Loaded {len(dataset)} ABC samples")
 
@@ -70,14 +86,19 @@ def train(tokenizer,vocab_size,model_dir,models ="bert-gpt2"):
 
     training_args = TrainingArguments(
         output_dir=model_dir,
-        per_device_train_batch_size=4,
+        per_device_train_batch_size=8,
+        gradient_accumulation_steps=2,
         num_train_epochs=5,
-        logging_steps=10,
+        learning_rate=5e-5,
+        weight_decay=0.01,
+        warmup_steps=500,
+        fp16=torch.cuda.is_available(),
+        logging_steps=100,
         save_steps=100,
         save_total_limit=2,
         remove_unused_columns=False,
-        fp16=torch.cuda.is_available(),
-        gradient_accumulation_steps=4
+        dataloader_num_workers=4,
+        logging_dir="./logs",
     )
 
     trainer = Trainer(

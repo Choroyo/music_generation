@@ -69,8 +69,6 @@ embedding_size = model.decoder.transformer.wte.weight.shape[0]
 print(f"Max token ID in input: {max_id}")
 print(f"Decoder embedding size: {embedding_size}")
 
-eos_token = 3  # </s>
-pad_token = 0  # <pad>
 eos_token = tokenizer.subword_to_id("<EOS>")
 pad_token = tokenizer.subword_to_id("<PAD>")
 
