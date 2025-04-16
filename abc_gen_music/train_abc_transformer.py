@@ -9,7 +9,10 @@ from transformers import (
 )
 import torch
 from torch.nn.utils.rnn import pad_sequence
-from parameter import DATA_FILE, TOKENIZER_MODEL, MODEL_DIR, VOCAB_SIZE
+from parameter import (TOKENIZER_MODEL3000, TOKENIZER_MODEL1200, MODEL_DIR3000,
+                       MODEL_DIR1200, MODEL_DIR600,TOKENIZER_MODEL600, DATASET1200, 
+                       DATASET3000, DATASET600, VOCAB_SIZE3000, VOCAB_SIZE1200, 
+                       VOCAB_SIZE600)
 
 
 
@@ -117,4 +120,7 @@ def train(tokenizer,vocab_size,model_dir,dataset_dir, models ="bert-gpt2"):
 
 
 if __name__ == "__main__":
-    train()
+    train(TOKENIZER_MODEL600, VOCAB_SIZE600, MODEL_DIR600, DATASET600, models ="bert-gpt2")
+    train(TOKENIZER_MODEL1200, VOCAB_SIZE1200, MODEL_DIR1200, DATASET1200, models ="bert-gpt2")
+    train(TOKENIZER_MODEL3000, VOCAB_SIZE3000, MODEL_DIR3000, DATASET3000, models ="bert-gpt2")
+
