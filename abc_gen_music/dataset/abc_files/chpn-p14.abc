@@ -1,0 +1,49 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p14.mid
+M: 4/4
+L: 1/8
+Q:1/4=156
+K:Gb % 6 flats
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+ (3^D,^A,^F,  (3B,D,B,  (3=D,B,=F,  (3A,D,A,| \
+ (3^D,^A,^F,  (3B,D,B,  (3=D,B,=F,  (3A,D,A,| \
+ (3^D,^A,^F,  (3B,D,C  (3=F,C^G,  (3D=A,^C| \
+ (3^F,^C^A,  (3^DF,E  (3=A,E=C  (3F^C=F|
+ (3^A,F^C  (3^FA,F  (3=A,F=C  (3=FA,F| \
+ (3^A,F^C  (3^F=A,F  (3^G,FD  (3=FB,F| \
+ (3^G,EB,  (3DG,D  (3=G,D^A,  (3FG,^D| \
+ (3F,^CG,  (3B,F,B,  (3E,B,G,  (3CE,=C|
+ (3^F,DA,  (3CF,C  (3=F,C^G,  (3^DF,^C| \
+ (3^D,B,F,  (3A,D,A,  (3=D,A,F,  (3^A,^F,A,| \
+ (3^D,^A,^F,  (3B,F,B,  (3=D,B,=F,  (3A,D,A,| \
+ (3^D,^A,^F,  (3B,G,B,  (3=D,B,F,  (3A,=F,A,|
+ (3^D,^A,^F,  (3B,D,B,  (3=F,^C=A,  (3CF,C| \
+ (3^F,^CA,  (3DF,D  (3^A,^DF,  (3EG,=F| \
+ (3^G,B,^F,  (3B,=F,B,  (3^D,G,=D,  (3^F,^D,F,| \
+ (3^G,,^F,^D,  (3F,G,,F,  (3^A,,F,D,  (3F,A,,F,|
+ (3^D,^A,D,  (3B,D,^C  (3D,A,D,  (3B,D,C| \
+ (3^D,^CD,  (3B,D,^A,  (3D,^G,D,  (3A,D,A,| \
+^D,2 
+V:2
+%%MIDI program 0
+ (3D,,^A,,^F,,  (3B,,D,,B,,  (3=D,,B,,=F,,  (3A,,D,,A,,| \
+ (3^D,,^A,,^F,,  (3B,,D,,B,,  (3=D,,B,,=F,,  (3A,,D,,A,,| \
+ (3^D,,^A,,^F,,  (3B,,D,,C,  (3=F,,C,^G,,  (3D,=A,,^C,| \
+ (3^F,,^C,^A,,  (3^D,F,,E,  (3=A,,E,=C,  (3F,^C,=F,|
+ (3^A,,F,^C,  (3^F,A,,F,  (3=A,,F,=C,  (3=F,A,,F,| \
+ (3^A,,F,^C,  (3^F,=A,,F,  (3^G,,F,D,  (3=F,B,,F,| \
+ (3^G,,E,B,,  (3D,G,,D,  (3=G,,D,^A,,  (3F,G,,^D,| \
+ (3F,,^C,G,,  (3B,,F,,B,,  (3E,,B,,G,,  (3C,E,,=C,|
+ (3^F,,D,A,,  (3C,F,,C,  (3=F,,C,^G,,  (3^D,F,,^C,| \
+ (3^D,,B,,F,,  (3A,,D,,A,,  (3=D,,A,,F,,  (3^A,,^F,,A,,| \
+ (3^D,,^A,,^F,,  (3B,,F,,B,,  (3=D,,B,,=F,,  (3A,,D,,A,,| \
+ (3^D,,^A,,^F,,  (3B,,G,,B,,  (3=D,,B,,F,,  (3A,,=F,,A,,|
+ (3^D,,^A,,^F,,  (3B,,D,,B,,  (3=F,,^C,=A,,  (3C,F,,C,| \
+ (3^F,,^C,A,,  (3D,F,,D,  (3^A,,^D,F,,  (3E,G,,=F,| \
+ (3^G,,B,,^F,,  (3B,,=F,,B,,  (3^D,,G,,=D,,  (3^F,,^D,,F,,| \
+ (3^G,,,^F,,^D,,  (3F,,G,,,F,,  (3^A,,,F,,D,,  (3F,,A,,,F,,|
+ (3^D,,^A,,D,,  (3B,,D,,^C,  (3D,,A,,D,,  (3B,,D,,C,| \
+ (3^D,,^C,D,,  (3B,,D,,^A,,  (3D,,^G,,D,,  (3A,,D,,A,,| \
+^D,,,2 

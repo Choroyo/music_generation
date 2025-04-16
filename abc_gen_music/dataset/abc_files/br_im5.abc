@@ -1,0 +1,165 @@
+X: 1
+T: from ./dataset/original_midi/brahms/br_im5.mid
+M: 6/8
+L: 1/8
+Q:1/4=80
+K:G % 1 sharps
+V:1
+%%MIDI program 0
+z4z[BGB,]| \
+c/2z3/2[geB] ^A/2z3/2[BGB,]| \
+c/2z3/2[geB] E/2z3/2[cAC]| \
+d/2z3/2[afc] B/2z3/2[cAC]|
+d/2z3/2[afc] F/2z3/2[dBD]| \
+e/2z3/2[b^gd] G/2z3/2[ecE]| \
+=f/2z3/2[^c'^ae] A/2z3/2[fdF]| \
+gz[^c'f-] [fG]z[be-]|
+[eF]z[^a-d]2[a^c]/2z/2[fdF]| \
+b/2z3/2[e'^c'a-] [ac]/2z3/2[d'bg-]| \
+[gB]/2z3/2[^c'^af-] [fA]e[AE-]| \
+[^c-E-]4[c-E][c^D-]|
+[cA^D-]4D/2z/2[BGB,]| \
+c/2z3/2[geB] ^A/2z3/2[BGB,]| \
+c/2z3/2[geB] E/2z3/2[cAC]| \
+d/2z3/2[afc] B/2z3/2[cAC]|
+d/2z3/2[afc] F/2z3/2[dBD]| \
+e/2z3/2[b^gd] G/2z3/2[ecE]| \
+=f/2z3/2[^c'^ae] A/2z3/2[fdF]| \
+gz[^c'f-] [fG]z[be-]|
+[eF]z[^a-d]2[a^c]/2z/2[fdF]| \
+b/2z3/2[e'^c'a-] [ac]/2z3/2[d'bg-]| \
+[gB]/2z3/2[^c'^af-] [fA]e[AE-]| \
+[^c-E]2[c-^D] [cF-]2[BF-]|
+[^d-F]2[dE] ^G2-[GC]| \
+^D2-[D-=F,] [D^G,-]2[^CG,-]| \
+[B,-^G,]2[B,F,] z^A,A| \
+^c3 F-[F-B,][BF]|
+^d3 ^G-[G-C][cG]| \
+^d3 ^G-[G-^C][cG]| \
+^g3 ^A-[A-F][fA]| \
+e3 A-[A-^D][dA]|
+c3 ^D-[D-A,][AD]| \
+F3 ^D-[D-A,][AD]| \
+c3 ^D-[D-A,][AD]| \
+F3 ^D-[D-A,][AD]|
+c6-| \
+cz[BA^D] Fz[BAE]| \
+cz[BA^D] Fz[dcG]| \
+ez[^dcF] Az[dcG]|
+ez[^dcF] Az[ecE]| \
+=f/2z3/2[c'ae] ^d/2z3/2[ecE]| \
+=f/2z3/2[c'a^d] A/2z3/2[=dBD]| \
+^d/2z3/2[bg=d] ^c/2z3/2[dBD]|
+^d/2z3/2[^ag^c] G/2z3/2[=c=AC]| \
+^cz[=cA=F] dz[afc]| \
+Bz[=fcA] Gz[c-A-F]| \
+[c-A-E]3 [cA^D-]2[cD-]|
+[B^D]3 [^AE]2A| \
+^c2-[c-^D] [cF-]2[BF-]| \
+[^d-F]2[dE] ^G2-[GC]| \
+^D2-[D-=F,] [D^G,-]2[^CG,-]|
+[B,-^G,]2[B,F,] z^A,A| \
+^c3 F-[F-B,][BF]| \
+^d3 ^G-[G-C][cG]| \
+^d3 ^G-[G-^C][cG]|
+^g3 ^A-[A-F][fA]| \
+e3 A-[A-^D][dA]| \
+c3 ^D-[D-A,][AD]| \
+F3 ^D-[D-A,][AD]|
+c3 ^D-[D-A,][AD]| \
+F3 ^D-[D-A,][AD]| \
+c6-| \
+cz[BA^D] Fz[BAE]|
+cz[BA^D] Fz[dcG]| \
+ez[^dcF] Az[dcG]| \
+ez[^dcF] Az[ecE]| \
+=f/2z3/2[c'ae] ^d/2z3/2[ecE]|
+=f/2z3/2[c'a^d] A/2z3/2[=dBD]| \
+^d/2z3/2[bg=d] ^c/2z3/2[dBD]| \
+^d/2z3/2[^ag^c] G/2z3/2[=c=AC]| \
+^cz[=cA=F] dz[afc]|
+Bz[=fcA] Gz[c-A-F]| \
+[c-A-E-]6| \
+[cAE]3 [B-^DA,-]3| \
+[BAA,]3 [B-^GB,]3|
+[B-F^DA,]6| \
+[BE^G,]2
+V:2
+%%MIDI program 0
+z4z[E=G,E,]| \
+^D,/2z3/2[E,B,,G,,] F,/2z3/2[EG,E,]| \
+^D,/2z3/2[E,B,,G,,] G,/2z3/2[FA,F,]| \
+=F,/2z3/2[^F,C,A,,] G,/2z3/2[FA,F,]|
+=F,/2z3/2[^F,C,A,,] A,/2z3/2[GB,G,]| \
+F,/2z3/2[^G,D,B,,] D/2z3/2[ACA,]| \
+^G,/2z3/2[^A,E,^C,] E/2z3/2[BDB,]| \
+D,z[^CG,E,] Fz[B,F,]|
+Ez[^A,-F,-] [FA,-F,-][EA,F,]/2z/2[BDB,]| \
+D,/2z3/2[^CA,E,] A/2z3/2[DB,F,]| \
+G/2z3/2[E^CF,] FzB,,,| \
+B,,2-[E,B,,-] [G,B,,-]2[F,B,,-]|
+[A,B,,]4z[EG,E,]| \
+^D,/2z3/2[E,B,,G,,] F,/2z3/2[EG,E,]| \
+^D,/2z3/2[E,B,,G,,] G,/2z3/2[FA,F,]| \
+=F,/2z3/2[^F,C,A,,] G,/2z3/2[FA,F,]|
+=F,/2z3/2[^F,C,A,,] A,/2z3/2[GB,G,]| \
+F,/2z3/2[^G,D,B,,] D/2z3/2[ACA,]| \
+^G,/2z3/2[^A,E,^C,] E/2z3/2[BDB,]| \
+D,z[^CG,E,] Fz[B,F,]|
+Ez[^A,-F,-] [FA,-F,-][EA,F,]/2z/2[BDB,]| \
+D,/2z3/2[^CA,E,] A/2z3/2[DB,F,]| \
+G/2z3/2[E^CF,] FzB,,,| \
+F,,2B,, ^D,2B,,,|
+^G,,2B,, E,2B,,,| \
+=F,,2^G,, B,,2B,,,| \
+E,,2G,, [E,^C,B,,]3| \
+B,,^D,D z2B,,,/2z/2|
+B,,E,E z2B,,,/2z/2| \
+B,,=F,F z2B,,,/2z/2| \
+B,,E,E z2B,,,/2z/2| \
+B,,F,F2<B,,,2|
+B,,F,E2<B,,,2| \
+C,-[A,C,]E B,,2z| \
+A,,-[F,A,,]E B,,2z| \
+C,-[A,C,]E B,,2z|
+A,,-[F,A,,]E/2z/2 F,,-[A,F,,]E/2z/2| \
+B,,A,z2B,z| \
+z[A,B,,]z2B,z| \
+z[A,B,,]z2B,z|
+z[A,B,,]z2B,[ACA,]| \
+^G,/2z3/2[A,E,C,] B,/2z3/2[ACA,]| \
+^G,/2z3/2[A,F,C,] ^D/2z3/2[=GB,G,]| \
+F,/2z3/2[G,D,B,,] A,/2z3/2[GB,G,]|
+F,/2z3/2[G,E,^A,,] ^C/2z3/2[=F=A,F,]| \
+E,z[CA,=F,] E,z[F,C,A,,]| \
+^G,z[A,=F,C,] B,z[C-A,-F,-]| \
+[C-A,-=F,]3 [CA,^F,-]2[A,F,-]|
+[B,F,-]3 [^CF,]2B,,,| \
+F,,2B,, ^D,2B,,,| \
+^G,,2B,, E,2B,,,| \
+=F,,2^G,, B,,2B,,,|
+E,,2G,, [E,^C,B,,]3| \
+B,,^D,D z2B,,,/2z/2| \
+B,,E,E z2B,,,/2z/2| \
+B,,=F,F z2B,,,/2z/2|
+B,,E,E z2B,,,/2z/2| \
+B,,F,F2<B,,,2| \
+B,,F,E2<B,,,2| \
+C,-[A,C,]E B,,2z|
+A,,-[F,A,,]E B,,2z| \
+C,-[A,C,]E B,,2z| \
+A,,-[F,A,,]E/2z/2 F,,-[A,F,,]E/2z/2| \
+B,,A,z2B,z|
+z[A,B,,]z2B,z| \
+z[A,B,,]z2B,z| \
+z[A,B,,]z2B,[ACA,]| \
+^G,/2z3/2[A,E,C,] B,/2z3/2[ACA,]|
+^G,/2z3/2[A,F,C,] ^D/2z3/2[=GB,G,]| \
+F,/2z3/2[G,D,B,,] A,/2z3/2[GB,G,]| \
+F,/2z3/2[G,E,^A,,] ^C/2z3/2[=F=A,F,]| \
+E,z[CA,=F,] E,z[F,C,A,,]|
+^G,z[A,=F,C,] B,z[C-A,-F,-]| \
+[C-A,-=F,-]6| \
+[CA,=F,]3 [^F,-B,,-F,,-]3| \
+[F,B,,F,,]3 [B,,-B,,,-]3|
+[B,,B,,,]3 [E,,-E,,,-]3|[E,,E,,,]3 

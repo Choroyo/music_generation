@@ -1,0 +1,262 @@
+X: 1
+T: from ./dataset/original_midi/beeth/elise.mid
+M: 3/8
+L: 1/16
+Q:1/4=69
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+z4 e^d| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE ^GB|
+c2 zE e^d| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE cB|
+A2 z2 e^d| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE ^GB|
+c2 zE e^d| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE cB|
+A2 zB cd| \
+e3G fe| \
+d3F ed| \
+c3E dc|
+B2 zE ez| \
+ze e'z2^d| \
+ez2^d ed| \
+e^d eB =dc|
+A2 zC EA| \
+B2 zE ^GB| \
+c2 zE e^d| \
+e^d eB =dc|
+A2 zC EA| \
+B2 zE cB| \
+A2 zB cd| \
+e3G fe|
+d3F ed| \
+c3E dc| \
+B2 zE ez| \
+ze e'z2^d|
+ez2^d ed| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE ^GB|
+c2 zE e^d| \
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE cB|
+A2 z[cE] [cF][cGE]/2F/2| \
+[c-A]/2c3-c/2 f3/2e/2| \
+e2 d2 ^a3/2=a/2| \
+ag fe dc|
+^A2 =A2 [^A=A]/2G/2A/2^A/2| \
+c4 d^d| \
+e3e fA| \
+c4 d3/2B/2|
+c/2g/2G/2g/2 A/2g/2B/2g/2 c/2g/2d/2g/2| \
+e/2g/2c'/2b/2 a/2g/2f/2e/2 d/2g/2f/2d/2| \
+c/2g/2G/2g/2 A/2g/2B/2g/2 c/2g/2d/2g/2| \
+e/2g/2c'/2b/2 a/2g/2f/2e/2 d/2g/2f/2d/2|
+e/2f/2e/2^d/2 e/2B/2e/2d/2 e/2B/2e/2d/2| \
+e3B e^d| \
+e3B ez| \
+z^d ez2d|
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE ^GB| \
+c2 zE e^d|
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE cB| \
+A2 zB cd|
+e3G fe| \
+d3F ed| \
+c3E dc| \
+B2 zE ez|
+ze e'z2^d| \
+ez2^d ed| \
+e^d eB =dc| \
+A2 zC EA|
+B2 zE ^GB| \
+c2 zE e^d| \
+e^d eB =dc| \
+A2 zC EA|
+B2 zE cB| \
+A2 z4| \
+[^c^AGE]6| \
+[dAF]4 [e^c][fd]|
+[fd^G]4 [fdG]2| \
+[ecA]6| \
+[dF]4 [cE][BD]| \
+[A^FC]4 [AC]2|
+[AC]2 [cE]2 [BD]2| \
+[AC]6| \
+[^c^AGE]6| \
+[dAF]4 [e^c][fd]|
+[fd]4 [fd]2| \
+[fd]6| \
+[^dG]4 [=dF][c^D]| \
+[^AFD]4 [=AFD]2|
+[^GFD]4 [GFD]2| \
+[AEC]4 z2| \
+[BE]2 z4| \
+ (3A,CE  (3Ace  (3dcB|
+ (3Ace  (3ac'e'  (3d'c'b| \
+ (3ac'e'  (3a'c''e''  (3d''c''b'| \
+ (3^a'=a'^g'  (3=g'^f'=f'  (3e'^d'=d'| \
+ (3^c'=c'b  (3^a=a^g  (3=g^f=f|
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE ^GB| \
+c2 zE e^d|
+e^d eB =dc| \
+A2 zC EA| \
+B2 zE cB| \
+A2 zB cd|
+e3G fe| \
+d3F ed| \
+c3E dc| \
+B2 zE ez|
+ze e'z2^d| \
+ez2^d ed| \
+e^d eB =dc| \
+A2 zC EA|
+B2 zE ^GB| \
+c2 zE e^d| \
+e^d eB =dc| \
+A2 zC EA|
+B2 zE cB| \
+A2 
+V:2
+%%MIDI program 0
+z6| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,z3| \
+C,G, Cz3| \
+G,,G, B,z3| \
+A,,E, A,z3|
+E,,E, Ez2E| \
+ez2^d ez| \
+z^d ez3| \
+z6|
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3| \
+z6|
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3| \
+C,G, Cz3|
+G,,G, B,z3| \
+A,,E, A,z3| \
+E,,E, Ez2E| \
+ez2^d ez|
+z^d ez3| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3|
+A,,E, A,[C^A,] [C=A,][C^A,G,]/2z/2| \
+F,A, CA, CA,| \
+F,^A, DA, DA,| \
+F,E [^A,G,F,]E [A,G,F,]E|
+F,A, CA, CA,| \
+F,A, CA, CA,| \
+E,A, CA, [DD,]F,| \
+G,E G,E G,F|
+[EC]2 z[GF] [GE][GFD]| \
+[GEC]2 [A,F,]2 [B,G,]2| \
+C2 z[GF] [GE][GFD]| \
+[GEC]2 [A,F,]2 [B,G,]2|
+[B,^G,]2 z4| \
+z6| \
+z4 z^d| \
+ez2^d ez|
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3|
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3|
+C,G, Cz3| \
+G,,G, B,z3| \
+A,,E, A,z3| \
+E,,E, Ez2E|
+ez2^d ez| \
+z^d ez3| \
+z6| \
+A,,E, A,z3|
+E,,E, ^G,z3| \
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3|
+E,,E, ^G,z3| \
+A,,A,, A,,A,, A,,A,,| \
+A,,A,, A,,A,, A,,A,,| \
+A,,A,, A,,A,, A,,A,,|
+A,,A,, A,,A,, A,,A,,| \
+A,,A,, A,,A,, A,,A,,| \
+[A,,D,,][A,,D,,] [A,,D,,][A,,D,,] [A,,D,,][A,,D,,]| \
+[A,,^D,,][A,,D,,] [A,,D,,][A,,D,,] [A,,D,,][A,,D,,]|
+[A,,E,,][A,,E,,] [A,,E,,][A,,E,,] [^G,,E,,][G,,E,,]| \
+[A,,A,,,]A,, A,,A,, A,,A,,| \
+A,,A,, A,,A,, A,,A,,| \
+A,,A,, A,,A,, A,,A,,|
+A,,A,, A,,A,, A,,A,,| \
+^A,,A,, A,,A,, A,,A,,| \
+^A,,A,, A,,A,, A,,A,,| \
+^A,,A,, A,,A,, A,,A,,|
+B,,B,, B,,B,, B,,B,,| \
+C,4 z2| \
+[^G,E,]2 z4| \
+A,,,2 z2 [ECA,]2|
+[ECA,]2 z2 [ECA,]2| \
+[ECA,]2 z2 [ECA,]2| \
+[ECA,]2 z4| \
+z6|
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3|
+z6| \
+A,,E, A,z3| \
+E,,E, ^G,z3| \
+A,,E, A,z3|
+C,G, Cz3| \
+G,,G, B,z3| \
+A,,E, A,z3| \
+E,,E, Ez2E|
+ez2^d ez| \
+z^d ez3| \
+z6| \
+A,,E, A,z3|
+E,,E, ^G,z3| \
+A,,E, A,z3| \
+z6| \
+A,,E, A,z3|
+E,,E, ^G,z3| \
+[A,,A,,,]2 

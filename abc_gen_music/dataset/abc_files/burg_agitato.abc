@@ -1,0 +1,119 @@
+X: 1
+T: from ./dataset/original_midi/burgm/burg_agitato.mid
+M: 4/4
+L: 1/8
+Q:1/4=144
+K:G % 1 sharps
+V:1
+%%MIDI program 0
+z4 zg2g-| \
+gg2f2=f2^f-| \
+fb2g2f2e-| \
+eg2f2=f2^f-|
+fg2g2^g2g-| \
+^ga2e2^d2e-| \
+eg2f2e2^d-| \
+^de/2z6z/2|
+z4 zg2g-| \
+gg2f2=f2^f-| \
+fb2g2f2e-| \
+eg2f2=f2^f-|
+fg2g2^g2g-| \
+^ga2e2^d2e-| \
+eg2f2e2^d-| \
+^de/2z6z/2|
+zD2G2A2B-| \
+BB2A2^G2A-| \
+AD2G2A2B-| \
+Bd2^c2=c2A-|
+AB2B2e2B-| \
+Bc2c2g2d-| \
+de2e2e2e-| \
+e^d2B2B2B/2-[BE-B,-]/2|
+[BGEB,]z4g2g-| \
+gg2f2=f2^f-| \
+fc'2b2g2e-| \
+eg2f2=f2^f-|
+fg2g2^g2g-| \
+^ga2e2^d2e-| \
+eg2f2e2^d-| \
+^de/2z6z/2|
+zD2G2A2B-| \
+BB2A2^G2A-| \
+AD2G2A2B-| \
+Bd2^c2=c2A-|
+AB2B2e2B-| \
+Bc2c2g2d-| \
+de2e2e2e-| \
+e^d2B2B2B/2-[BE-B,-]/2|
+[BGEB,]z4g2g-| \
+gg2f2=f2^f-| \
+fc'2b2g2e-| \
+eg2f2=f2^f-|
+fg2g2^g2g-| \
+^ga2e2^d2e-| \
+eg2f2e2^d-| \
+^de2e2e2e-|
+ee2e2e2e-| \
+ee2B2G2E-| \
+EB,2B,2G,2E,| \
+z8|
+z4 [geBG]z3| \
+E,4 
+V:2
+%%clef treble
+%%MIDI program 0
+E/2G/2B/2G/2 E/2G/2B/2G/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2| \
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2|
+E/2G/2z/2B/2 E/2G/2z/2B/2 D/2=F/2z/2B/2 D/2F/2z/2B/2| \
+C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2| \
+B,/2E/2z/2B/2 B,/2A/2z/2B/2 B,/2G/2z/2B/2 B,/2F/2z/2B/2| \
+E/2G/2z/2B/2 ^A/2B/2c/2B/2 A/2B/2c/2B/2 A/2B/2c/2B/2|
+E/2G/2B/2G/2 E/2G/2B/2G/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2| \
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2|
+E/2G/2z/2B/2 E/2G/2z/2B/2 D/2=F/2z/2B/2 D/2F/2z/2B/2| \
+C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2| \
+B,/2E/2z/2B/2 B,/2A/2z/2B/2 B,/2G/2z/2B/2 B,/2F/2z/2B/2| \
+E/2G/2z/2B/2 ^A/2B/2c/2B/2 A/2B/2c/2B/2 A/2B/2c/2B/2|
+G,/2B,/2z/2B,/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2| \
+F,/2C/2z/2D/2 F,/2C/2z/2D/2 F,/2C/2z/2D/2 F,/2C/2z/2D/2| \
+G,/2B,/2z/2B,/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2| \
+F,/2A,/2z/2D/2 F,/2A,/2z/2D/2 F,/2A,/2z/2D/2 F,/2C/2z/2D/2|
+G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 ^G,/2B,/2z/2E/2 G,/2B,/2z/2E/2| \
+A,/2C/2z/2E/2 A,/2C/2z/2E/2 B,/2D/2z/2G/2 B,/2D/2z/2G/2| \
+C/2E/2z/2G/2 C/2E/2z/2^G/2 C/2E/2z/2A/2 C/2E/2z/2^A/2| \
+B,/2F/2z/2B/2 B,,/2B,/2z/2B,/2 G,,/2G,/2z/2B,/2 F,,/2F,/2z/2z/2|
+[E,E,,]B/2G/2 E/2G/2B/2G/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2| \
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2|
+E/2G/2z/2B/2 E/2G/2z/2B/2 D/2=F/2z/2B/2 D/2F/2z/2B/2| \
+C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2| \
+B,/2E/2z/2B/2 B,/2A/2z/2B/2 B,/2G/2z/2B/2 B,/2F/2z/2B/2| \
+E/2G/2z/2B/2 ^A/2B/2c/2B/2 A/2B/2c/2B/2 A/2B/2c/2B/2|
+G,/2B,/2z/2B,/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2| \
+F,/2C/2z/2D/2 F,/2C/2z/2D/2 F,/2C/2z/2D/2 F,/2C/2z/2D/2| \
+G,/2B,/2z/2B,/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 G,/2B,/2z/2D/2| \
+F,/2A,/2z/2D/2 F,/2A,/2z/2D/2 F,/2A,/2z/2D/2 F,/2C/2z/2D/2|
+G,/2B,/2z/2D/2 G,/2B,/2z/2D/2 ^G,/2B,/2z/2E/2 G,/2B,/2z/2E/2| \
+A,/2C/2z/2E/2 A,/2C/2z/2E/2 B,/2D/2z/2G/2 B,/2D/2z/2G/2| \
+C/2E/2z/2G/2 C/2E/2z/2^G/2 C/2E/2z/2A/2 C/2E/2z/2^A/2| \
+B,/2F/2z/2B/2 B,,/2B,/2z/2B,/2 G,,/2G,/2z/2B,/2 F,,/2F,/2z/2z/2|
+[E,E,,]B/2G/2 E/2G/2B/2G/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2| \
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2 E/2G/2z/2B/2| \
+^D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2 D/2A/2z/2B/2|
+E/2G/2z/2B/2 E/2G/2z/2B/2 D/2=F/2z/2B/2 D/2F/2z/2B/2| \
+C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2 C/2E/2z/2A/2| \
+B,/2E/2z/2B/2 B,/2A/2z/2B/2 B,/2G/2z/2B/2 B,/2F/2z/2B/2| \
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2A/2z/2c/2 E/2F/2z/2A/2|
+E/2G/2z/2B/2 E/2G/2z/2B/2 E/2A/2z/2c/2 E/2F/2z/2A/2| \
+E/2G/2z/2B/2 E/2G/2z/2G/2 B,/2E/2z/2E/2 G,/2B,/2z/2B,/2| \
+E,/2G,/2z/2G,/2 E,/2G,/2z/2G,/2 B,,/2E,/2z/2E,/2 G,,/2B,,/2z/2B,,/2| \
+E,,/2-[G,,E,,-]/2[B,,E,,-]/2[G,,E,,]/2 E,,/2-[G,,E,,-]/2[B,,E,,-]/2[G,,E,,]/2 E,,/2-[G,,E,,-]/2[B,,E,,-]/2[G,,E,,]/2 E,,/2-[G,,E,,-]/2[B,,E,,-]/2[G,,E,,]/2|
+E,,2 z2 [EB,E,]z3| \
+[E,,E,,,]4 

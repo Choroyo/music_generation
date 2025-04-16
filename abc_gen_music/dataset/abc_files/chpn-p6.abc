@@ -1,0 +1,62 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p6.mid
+M: 3/4
+L: 1/8
+Q:1/4=47
+K:D % 2 sharps
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+[B^F-D-][BFD] [BF-][BF] [BF-][BF]| \
+[B^F-D-][BFD] [BF-D-][BFD] [BF-D-][BFD]| \
+[B^F-D-][BFD] [dB-][dB] [dB-][dB]| \
+[dB-^F-][dBF] [dB-F-][dBF] [dB-F-][dBF]|
+[dB-G-][dBG] [dB-][dB] [dB-][dB]| \
+[dB-^G-][dBG] [^cB-G-][cBG] [c^A=G-][dBG]| \
+[e-^AG][e-BG] [eAG][^f^cF] [eB-F-]/2[dBF]/2[cF-]/2[BF]/2| \
+[^AG^C][B^GD] [dBD][cAC] z2|
+[B^F-D-][BFD] [BF-][BF] [BF-][BF]| \
+[B^F-D-][BFD] [BF-D-][BFD] [BF-D-][BFD]| \
+[BG-D-][BGD] [BG-][BG] [BG-][BG]| \
+[cG-][cG] [cG-E-][cGE] [cG-E-][cGE]|
+[cG-E-][cGE] [cG-][cG] [cG-E-][cGE]| \
+[cG-][cG] [cG-][cG] [BG-][BG]| \
+[^AG-^C-][AGC] [A^F-C-][AFC] [BF-D-][BFD]| \
+[BG-^C-][BGC] [^AG-C-][AGC] [BG-D-][BGD]|
+[BG-D-][BGD] [B^F-^C-][BFC] [^AE-C-][AEC]| \
+[^AE-^C-][AEC] [BD-B,-][BDB,] [BG-D-][BGD]| \
+[BG-^C-][BGC] [^AG-C-][AGC] [B^F-D-][BFD]| \
+[BG-^C-][BGC] [^AG-C-][AGC] [BG-D-][BGD]|
+[BG-D-][BGD] [B^F-^C-][BFC] [^AF-C-][AFC]| \
+[B^F-D-][BFD] [BF-D-][BFD] [AF-D-][AFD]| \
+[^FD-][FD] FF FF| \
+[^FD-][FD] [FD-][FD] [FD-][FD]|
+[^FD-][FD] z2 [FD-][FD]| \
+[^FD-][FD] 
+V:2
+%%MIDI program 0
+B,,/2D,/2F,/2B,/2 D2 ^C3/2D/2| \
+B,3^F, D,^C,| \
+B,,/2^F,/2B,/2D/2 F2 E3/2F/2| \
+D3B, ^F,D,|
+G,,/2D,/2B,/2D/2 G2 ^F2| \
+^F2 =F2 ED| \
+^CD C^A, B,D,| \
+E,F, ^F,2 D,^C,|
+B,,/2D,/2^F,/2B,/2 D2 ^C3/2D/2| \
+B,3^F, D,B,,| \
+G,,/2D,/2G,/2B,/2 D2 EF| \
+E2 zC G,C,|
+C,,/2G,,/2E,/2G,/2 E2 C,,/2G,,/2E,/2G,/2| \
+E4 z2| \
+E,3^F, E,/2D,/2^C,/2B,,/2| \
+E,3^F, E,/2D,/2^C,/2B,,/2|
+A,,/2G,,/2D,,/2E,,/2 ^F,,4| \
+G,,4 G,2| \
+E,3^F, E,/2D,/2^C,/2B,,/2| \
+E,3^F, E,/2D,/2^C,/2B,,/2|
+A,,/2G,,/2D,,/2E,,/2 ^F,,4| \
+B,,,6-| \
+B,,,/2D,/2^F,/2B,/2 D2 ^C3/2D/2| \
+B,3^F, D,^C,|
+B,,6-|B,,2 

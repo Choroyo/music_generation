@@ -1,0 +1,16 @@
+dataset600 size: 231301 with a tokenizer of vocab size of 600
+dataset1200 size: 237806 with a tokenizer of vocab size of 1200
+dataset3000 size: 241138 with a tokenizer of vocab size of 3000
+
+🔎 Interpretation:
+
+Larger vocab sizes generally result in fewer tokens per phrase (since longer or composite patterns can be tokenized as one).
+
+Smaller vocab sizes may produce more tokens (more splits), but might offer better generalization or compression.
+
+✅ 2. Average Input Length (Optional Analysis)
+You can calculate:
+
+Average number of tokens per input_ids in each dataset.
+
+Average label length (target side).

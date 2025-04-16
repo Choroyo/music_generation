@@ -1,0 +1,63 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p4.mid
+M: 4/4
+L: 1/8
+Q:1/4=190
+K:G % 1 sharps
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+z6 B,3/2B/2| \
+B6 c2| \
+B6 c2| \
+B4>c4|
+B6 ^A2| \
+A6 B2| \
+A6 B2| \
+A6 B>A|
+A6 ^G2-| \
+^G2 AB dc EA| \
+^F6 A2| \
+^F6 [BA-]/2A3/2|
+G^F CB, ^DF  (3=dcB| \
+B6 c2| \
+B4>c4| \
+B4>c4|
+B3/2^A/2 A (3B/2A/2=A/2 [g-^A]/2g3/2 ^f3/2e/2| \
+e^d c'd de gB| \
+dc  (3eEA ^F3A| \
+^F6 [BA-]/2A3/2|
+^F6- F3/2E/2| \
+E6 ^F2| \
+E6 ^F2| \
+E4 z4|
+[EB,^F,E,]4 [^DB,F,D,]4| \
+[EB,G,E,]8|
+V:2
+%%MIDI program 0
+z8| \
+[EB,G,][EB,G,] [EB,G,][EB,G,] [EB,G,][EB,G,] [EB,G,][EB,G,]| \
+[EA,^F,][EA,F,] [EA,F,][EA,F,] [^DA,F,][DA,F,] [DA,F,][DA,F,]| \
+[^DA,F,][DA,F,] [DA,F,][DA,F,] [=DA,F,][DA,F,] [D^G,F,][DG,F,]|
+[D^G,E,][DG,E,] [DG,E,][DG,E,] [D=G,E,][DG,E,] [^CG,E,][CG,E,]| \
+[CG,E,][CG,E,] [CG,E,][CG,E,] [C^F,E,][CF,E,] [CF,E,][CF,E,]| \
+[C^F,E,][CF,E,] [CF,E,][CF,E,] [CF,^D,][CF,D,] [CF,D,][CF,D,]| \
+[C^F,D,][CF,D,] [CF,D,][CF,D,] [CF,D,][CF,D,] [CF,D,][CF,D,]|
+[CF,D,][CF,D,] [CF,D,][CF,D,] [B,F,D,][B,F,D,] [B,F,D,][B,F,D,]| \
+[B,E,C,][B,E,C,] [A,E,C,][A,E,C,] [A,E,C,][A,E,C,] [A,E,C,][A,E,C,]| \
+[A,E,B,,][A,E,B,,] [A,^D,B,,][A,D,B,,] [A,E,C,][A,E,C,] [A,E,C,][A,E,C,]| \
+[A,^D,B,,][A,D,B,,] [A,D,B,,][A,D,B,,] [A,E,C,][A,E,C,] [A,E,C,][A,E,C,]|
+[A,^D,B,,]2 z6| \
+[EB,G,][EB,G,] [EB,G,][EB,G,] [EB,G,][EB,G,] [EB,G,][EB,G,]| \
+[EA,^F,][EA,F,] [EA,F,][EA,F,] [^DA,=F,][DA,F,] [DA,F,][DA,F,]| \
+[^D^G,F,][DG,F,] [=DG,F,][DG,F,] [DG,E,][DG,E,] [DG,E,][DG,E,]|
+[DG,E,][DG,E,] [^CG,E,][CG,E,] [^A,E,C,][A,E,C,] [=A,E,=C,][A,E,C,]| \
+[B,,B,,,][A^FCA,] [AFCA,][AFCA,] [F^DB,G,][EB,G,] [EB,G,][EB,G,]| \
+[ECA,][ECA,] A,,[C^F,E,] [B,E,B,,][B,E,B,,] [A,E,C,][A,E,C,]| \
+[B,E,B,,][B,E,B,,] [B,E,B,,][B,E,B,,] [A,E,C,][A,E,C,] [A,E,C,][A,E,C,]|
+[B,E,B,,][B,E,B,,] [B,E,B,,][B,E,B,,] [B,^D,B,,][B,D,B,,] [A,D,B,,][A,D,B,,]| \
+[G,C,][G,C,] [G,C,][G,C,] [^A,C,][A,C,] [=A,E,C,][A,E,C,]| \
+[A,E,B,,][A,E,B,,] [^G,E,B,,][G,E,B,,] [=G,E,B,,][G,E,B,,] [G,E,B,,][G,E,B,,]| \
+[G,C,^A,,]4 z4|
+[B,,B,,,]4 [B,,^F,,B,,,]4| \
+[E,,E,,,]8|

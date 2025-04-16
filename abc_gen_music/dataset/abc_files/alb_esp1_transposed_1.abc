@@ -1,0 +1,134 @@
+X: 1
+T: from ./dataset/transposed_midi/albeniz/alb_esp1_transposed_1.mid
+M: 3/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Phrygian mode tune
+K:G % 1 sharps
+V:1
+%%MIDI program 0
+z3/2b3/2f'3-| \
+f'4- f'/2e'/2[f'e'-]/2e'/2| \
+d'e' f'g' a'f'| \
+g'f'/2>e'/2 [f'e'-]/2e'2d'3/2-|
+d'c'2-c'/2zB,^D/2-| \
+^D/2FBdfBd/2-| \
+^d/2f/2-[b-f]/2b/2 d'f' d'b| \
+f^d Bf dB|
+F^D z/2B,zb3/2| \
+f'6-| \
+f'3/2e'/2 f'/2e'd'e'f'/2-| \
+f'/2g'a'f'g'f'/2>e'/2[f'e'-]/2|
+e'2 d'2- d'/2c'3/2-| \
+c'b c'd' e'g'-| \
+g'/2e'/2[f'e'-]/2e'2d'2-d'/2| \
+c'2- c'/2bc'd'e'/2-|
+e'/2f'a'g'/2[f'e']/2e'd'c'/2-| \
+c'/2z/2e' ^d'z [cD-]/2[BD]/2z| \
+[c^D-]/2[BD]/2z/2[cD-]/2 D/2B/2z/2[BE-]/2 [AE]/2z/2[BE-]/2[AE]/2| \
+z[BE-]/2[AE]/2 z[c^D-]/2[BD]/2 z/2[cD-]/2D/2B/2|
+z/2[c^D-]/2[BD]/2z[cE-]/2[BE]/2z/2 [BE-]/2[AE]/2z| \
+[AE-]/2[FE]/2z [c^D-]/2[BD]/2z/2[cD-]/2 D/2B/2z/2[cD-]/2| \
+[B^D]/2z[AB,-]/2 [GB,-]/2B,/2z/2[AB,-]/2 [GB,]/2z/2[AB,-]/2B,/2-| \
+[GB,]/2z/2[GD-]/2D/2- [FD]/2z/2[GD-]/2[FD-]/2 D/2z/2[GD-]/2[FD-]/2|
+D/2z/2[FC-]/2[EC-]/2 C/2z/2[FC-]/2C/2- [E-C]/2E/2z/2[F-C-]/2| \
+[FE-C-]/2[EC-]/2C/2z/2 [c^D-]/2[BD]/2z [cD-]/2[BD]/2z/2[cD-]/2| \
+^D/2B/2z/2[BE-]/2 [AE]/2z/2[BE-]/2[AE]/2 z[BE-]/2[AE]/2| \
+z[c^D-]/2[BD]/2 z/2[cD-]/2[BD]/2z[cD-]/2[BD]/2z/2|
+[BE-]/2E/2A/2z/2 [BE-]/2[AE]/2z [BE-]/2[AE]/2z| \
+bz/2^c'^d'e'f'g'/2-| \
+g'z/2f'e'd'e'f'/2-| \
+f'/2g'a'f'g'f'/2[f'e']/2e'/2-|
+e'2 d'2- [d'c'-]/2c'3/2-| \
+c'/2b^c'^d'e'f'g'/2-| \
+g'/2a'b'/2 z/2c''2b'a'/2-| \
+a'/2b'2b'a'c''b'/2|
+g'/2[a'g'-]/2g'/2=f'e'^f'd'z/2| \
+c'z [c^D-]/2[BD]/2z [cD-]/2[BD]/2z/2[cD-]/2| \
+[B^D]/2z[BE-]/2 [AE]/2z/2[BE-]/2[AE]/2 z[BE-]/2[AE]/2| \
+z[c^D-]/2[BD]/2 z/2[cD-]/2D/2B/2 z/2[cD-]/2[BD]/2z/2|
+z/2[cE-]/2[BE]/2z/2 [BE-]/2[AE]/2z [AE-]/2[FE]/2z| \
+[c^D-]/2[BD]/2z/2[cD-]/2 D/2B/2z/2[cD-]/2 [BD]/2z[AB,-]/2| \
+[GB,]/2z/2[AB,-]/2B,/2 G/2z/2[AB,-]/2[GB,-]/2 B,/2z/2[GD-]/2[FD-]/2| \
+D/2z/2[GD-]/2[FD-]/2 D/2z/2[GD-]/2[FD-]/2 D/2z/2[FC-]/2[EC-]/2|
+C/2z/2[FC-]/2C/2- [E-C]/2E/2z/2[F-C-]/2 [FE-C-]/2[EC]/2z| \
+z3z/2[F^D]2z/2| \
+z2 [FEC]z3| \
+z4 z/2[F-^D-]3/2|
+[F^D]z2z/2[FEC]z3/2| \
+z2 z/2[f-c-]3[f-c-]/2| \
+[f-c-]6| \
+[fc]/2z/2c'4-c'-|
+c'3d' e'g'| \
+z/2e'd'/2 [e'd']/2d'c'gc'/2-| \
+c'b4-b| \
+ (3^a2g2f2 e3/2z/2|
+z/2B,^Dz/2F Bd| \
+z/2fB^dz/2 fb| \
+ (3^d'2f'2B2 df-| \
+f/2b-[^d'-b]/2 d'f'3/2b-[d'-b]/2|
+^d'f'3/2b'3/2 d''3/2[b''-f''-b'-]/2|[b''-f''-b'-]6|[b''f''b']
+V:2
+%%clef treble
+%%MIDI program 0
+z3/2B,3/2F3-| \
+F4- F/2E/2[FE-]/2E/2| \
+DE FG AF| \
+GF/2>E/2 [FE-]/2E2D3/2-|
+DC2-C/2B,,F,B,/2-| \
+B,/2^DFBdDF/2-| \
+F/2B/2-[^d-B]/2d/2 fb fd| \
+BF ^DB FD|
+B, (3B,2F,2B,,2B,-| \
+[F-B,]/2F4-F3/2-| \
+F3/2z/2 [FE]/2EDEF/2-| \
+F/2GAFGF/2>E/2[FE-]/2|
+E2 D2- D/2C3/2-| \
+CB, CD EG-| \
+G/2E/2[FE-]/2E2D2-D/2| \
+C2- C/2B,CDE/2-|
+E/2FAG/2[FE]/2EDC/2-| \
+C/2z/2E ^DB,,2z/2F,/2-| \
+F,-[B,-F,]/2B,3/2B,,3/2F,3/2| \
+z/2C3/2 B,,2 F,2|
+B,3/2-[B,B,,-]/2 B,,3/2F,3/2-[C-F,]/2C/2-| \
+CB,,2F,2B,-| \
+B,/2-[B,G,,-]/2G,,3/2D,2B,/2z| \
+z/2D,2A,2D/2z|
+z/2A,/2z3/2B,/2z3/2[DC]/2z| \
+z3/2B,,2F,2B,/2-| \
+B,-[B,B,,-]/2B,,z/2F,3/2C3/2| \
+B,,2 F,2 B,3/2-[B,B,,-]/2|
+B,,3/2F,2C3/2-[CB,,-]/2B,,/2| \
+z/2B,^C^DEFG/2-| \
+Gz/2FEDEF/2-| \
+F/2GAFGF/2[FE]/2E/2-|
+E2 D2- [DC-]/2C3/2-| \
+C/2B,^C^DEFG/2-| \
+G/2AB/2 z/2c2BA/2-| \
+A/2B2BAcB/2|
+G/2[AG-]/2G/2=FE^FDz/2| \
+CB,,2F,2B,-| \
+B,B,,3/2F,3/2 C3/2z/2| \
+B,,2 F,2 B,3/2-[B,B,,-]/2|
+B,,3/2F,3/2-[C-F,]/2C3/2B,,-| \
+B,,F,2B,3/2-[B,G,,-]/2G,,-| \
+G,,/2D,2B,/2z D,2| \
+A,2 D/2z3/2 A,/2z3/2|
+B,/2z3/2 D/2C/2z2B,,-| \
+B,,-[F,-B,,]/2F,3/2z/2B,2E,/2| \
+z/2 (3F,G,A, (3B,CDC/2z/2B,/2| \
+B,,2- B,,/2F,2B,3/2-|
+B,E, F,/2-[G,-F,]/2G,/2A,/2- [B,-A,]/2B,/2C| \
+D/2-[DC-]/2C/2B,[E-^A,-]3[E-A,-]/2| \
+[E-^A,-]6| \
+[E^A,]/2C4-C3/2-|
+C2- C/2z/2D EG| \
+ED/2>D/2 E/2DCG,C/2-| \
+CB,4-B,| \
+^A,-[A,G,-]/2G,F,3/2 E,-[E,B,,-]/2B,,/2-|
+B,,/2F,B,z/2^D FB| \
+^dz/2DFBz/2d| \
+f (3b2^D2F2B-| \
+[^d-B]/2d (3f2b2d2f/2-|
+fb3/2^d'3/2 f'3/2[d'-f-B-]/2|[^d'-f-B-]6|[^d'fB]

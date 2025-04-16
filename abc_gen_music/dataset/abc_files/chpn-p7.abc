@@ -1,0 +1,45 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p7.mid
+M: 3/4
+L: 1/8
+Q:1/4=101
+K:A % 3 sharps
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+z4 E2| \
+^c3/2d/2 [B^GD]2 [BGD]2| \
+[B^GD]4 [^fd]2| \
+[^dc]3/2[e^c]/2 [ac]2 [ac]2|
+[a^c]4 [cE]2| \
+[^A^C]3/2[BD-]/2 [d^FD-]2 [dFD-]2| \
+[d^FD]4 [^GD]2| \
+[^GD]3/2[A^C]/2 [cC]2 [cC]2|
+[^cC]4 E2-| \
+[^c^G-E-]3/2[dGE]/2 [BGD]2 [BGD]2| \
+[B^GD]4 [^fd]2| \
+[^dc]3/2[e-^c-]/2 [c'ae-c-]2 [c'aec]2|
+[^c'^aecA]4 [cA]2| \
+[^c^A]3/2[dB]/2 [^fB]2 [f=A]2| \
+[^f^G]4 [GD]2| \
+[BD]3/2[A^C]/2 A/2-[acA-]3/2 [acA-]2|
+[a^cA]4 
+V:2
+%%MIDI program 0
+z6| \
+E,,2 [EE,]2 [EE,]2| \
+[EE,]4 z2| \
+A,,2 [EA,]2 [EA,]2|
+[EA,]4 z2| \
+E,,2 [B,E,]2 [B,E,]2| \
+[B,E,]4 z2| \
+A,,,2 [EA,E,]2 [EA,E,]2|
+[EA,E,]4 z2| \
+E,,2 [EE,]2 [EE,]2| \
+[EE,]4 z2| \
+A,,2 [AEA,]2 [AEA,]2|
+[^FE^CF,]4 z2| \
+B,,,2 [D^F,]2 [DB,F,]2| \
+[DB,E,]4 z2| \
+A,,,2- A,,,/2-[E-A,-E,-A,,,]/2[EA,E,] [EA,]2|
+[EA,]4 

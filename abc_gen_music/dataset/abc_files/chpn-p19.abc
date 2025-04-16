@@ -1,0 +1,155 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p19.mid
+M: 3/4
+L: 1/8
+Q:1/4=204
+K:Eb % 3 flats
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+z4 ^A2| \
+ (3^AA,G  (3^dDA  (3gGd| \
+ (3^aAg  (3^d'da  (3g'ga| \
+ (3f'd^g  (3^d'dg  (3c'cg|
+ (3c'cg  (3^aA^d  (3gGA| \
+ (3^dDA  (3=dDA  (3^dDA| \
+ (3gG^A  (3fFA  (3dDF| \
+ (3^dDA  (3=dDA  (3^dDA|
+ (3gGc  (3fF^G  (3cCF| \
+ (3^AA,G  (3^dDA  (3gGd| \
+ (3^aAg  (3^d'da  (3g'ga| \
+ (3f'd^g  (3^d'dg  (3c'cg|
+ (3c'cg  (3^aA^d  (3gGd| \
+ (3^fF^d  (3=fFd  (3^fFd| \
+ (3gGd  (3aAd  (3^aAd| \
+ (3c'cf  (3d'df  (3aAf|
+ (3c'cf  (3^aAf  (3fFA| \
+ (3fFB  (3^dD^A  (3f^C^G| \
+ (3^g^C^A  (3^fCA  (3cCA| \
+ (3f^CB  (3^dC^A  (3fC^G|
+ (3^g^C^A  (3^fCA  (3cCA| \
+ (3eE^A  (3aE^c  (3c'Ae| \
+ (3d'^Af  (3^d'Ag  (3b^G=d| \
+ (3c'A^d  (3=d'Af  (3aAc|
+ (3c'F^d  (3^aF=d  (3fFA| \
+ (3fFB  (3^dD^A  (3f^C^G| \
+ (3^g^C^A  (3^fCA  (3cCA| \
+ (3f^CB  (3^dC^A  (3fC^G|
+ (3^g^C^A  (3^fCA  (3=fCA| \
+ (3e^C^A  (3gEc  (3^f^D=c| \
+ (3a^F^d  (3^g=F=d  (3bGf| \
+ (3^aGe  (3^c'Ag  (3=c'=A^f|
+ (3^d'ca  (3=d'B^g f'z| \
+ (3^AA,G  (3^dDA  (3gGd| \
+ (3^aAg  (3^d'da  (3g'ga| \
+ (3f'd^g  (3^d'dg  (3c'cg|
+ (3c'cg  (3^aA^d  (3gGA| \
+ (3^dDA  (3=dDA  (3^dDA| \
+ (3gG^A  (3fFA  (3dDF| \
+ (3^dDA  (3=dDA  (3^dDA|
+ (3gGc  (3fF^G  (3cCF| \
+ (3^AA,G  (3^dDA  (3gGd| \
+ (3^aAg  (3^d'da  (3g'ga| \
+ (3^f'^da  (3=f'=d^g  (3e'^c=g|
+ (3^d'c^f  (3=d'B=f  (3^c'cg| \
+ (3c'cf  (3d'cf  (3^d'cf| \
+ (3f'fc'  (3g'gc'  (3f'f^g| \
+ (3c'cf  (3d'df  (3c'cf|
+ (3fFc  (3gFc  (3dD^A| \
+ (3^dD^A  (3aGd  (3bGd| \
+ (3^a^Gd  (3=aGd  (3gGd| \
+ (3gG^d  (3^aGd  (3c'Gd|
+ (3^a^Gd  (3=aGd  (3gGd| \
+ (3gG^d  (3^aGg  (3d'da| \
+ (3g'db  (3f'dg  (3^d'cg| \
+ (3^d'c^f  (3=d'Bf  (3c'cf|
+ (3c'^Gf  (3^a=Gc  (3^gFd| \
+ (3g^Dd  (3^aGd  (3bGd| \
+ (3^a^Gd  (3=aGd  (3gGd| \
+ (3gG^d  (3^aGd  (3c'Gd|
+ (3^a^Gd  (3=aGd  (3gGd| \
+ (3gG^d  (3^aAg  (3d'da| \
+ (3g'db  (3f'db  (3e'db| \
+ (3e'^ca  (3^d'=ca  (3c'Ad|
+ (3c'A^d  (3^aAd  (3=dDA| \
+ (3^dD^A  (3aDA  (3dDA| \
+ (3a^D^A  (3dDA  (3^gDA| \
+ (3^dD^A  (3gDA  (3dDA|
+ (3^f^D^A  (3dDA  (3gDA| \
+^d2 z4| \
+[^d''^a'd']2 z4| \
+[G^D^A,G,]6|
+V:2
+%%MIDI program 0
+z6| \
+ (3^D,,G,^A,,  (3D,,G,A,,  (3D,,A,A,,| \
+ (3^D,,DG,  (3^A,,GA,  (3D,AA,| \
+ (3^D,BB,  (3D,cC  (3D,^G=D|
+ (3^D,GD  (3^A,GD  (3D,DG,| \
+ (3F,,CF,  (3C,CF,  (3F,,CF,| \
+ (3^A,,^DF,  (3=D,DF,  (3A,,A,F,| \
+ (3F,,CF,  (3C,B,F,  (3F,,CF,|
+ (3^A,,^D^G,  (3F,=DF,  (3A,,G,D,| \
+ (3^D,,G,^A,,  (3D,,G,A,,  (3D,,A,A,,| \
+ (3^D,,DG,  (3^A,,GA,  (3D,AA,| \
+ (3^D,BB,  (3D,cC  (3D,^G=D|
+ (3^D,GD  (3^A,GD  (3D,DG,| \
+ (3B,,^DA,  (3D,DA,  (3B,,DA,| \
+ (3^A,,DG,  (3=A,,D^F,  (3G,,DG,| \
+ (3F,,^A^D  (3F,AD  (3CFD|
+ (3^A,,^DF,  (3A,,=DF,  (3A,,^CF,| \
+ (3^G,,B,F,  (3^C,B,F,  (3C,,B,F,| \
+ (3^F,,^A,F,  (3^C,A,F,  (3F,,A,C,| \
+ (3^C,,B,F,  (3^G,,B,F,  (3C,,B,F,|
+ (3^F,,^A,F,  (3^C,A,F,  (3F,,A,C,| \
+ (3^F,,^A,^C,  (3F,,CF,  (3F,,EA,| \
+ (3F,,F^A,  (3F,GA,  (3F,FB,| \
+ (3F,FC  (3F,F^D  (3F,DA,|
+ (3^A,,^DF,  (3A,,=DF,  (3A,,^CF,| \
+ (3^G,,B,F,  (3^C,B,F,  (3C,,B,F,| \
+ (3^F,,^A,F,  (3^C,A,F,  (3F,,A,C,| \
+ (3^C,,B,F,  (3^G,,B,F,  (3C,,B,F,|
+ (3^F,,^A,F,  (3^C,A,F,  (3F,,A,C,| \
+ (3G,,^A,E,  (3A,,^CE,  (3=A,,=C^D,| \
+ (3C,^D^F,  (3B,,=D=F,  (3D,F^G,| \
+ (3^C,EG,  (3E,G^A,  (3^D,^F=A,|
+ (3^F,AC  (3=F,^GB, ^A,z| \
+ (3^D,,G,^A,,  (3D,,G,A,,  (3D,,A,A,,| \
+ (3^D,,DG,  (3^A,,GA,  (3D,AA,| \
+ (3^D,BB,  (3D,cC  (3D,^G=D|
+ (3^D,GD  (3^A,GD  (3D,DG,| \
+ (3F,,CF,  (3C,CF,  (3F,,CF,| \
+ (3^A,,^DF,  (3=D,DF,  (3A,,A,F,| \
+ (3F,,CF,  (3C,B,F,  (3F,,CF,|
+ (3^A,,^D^G,  (3F,=DF,  (3A,,G,D,| \
+ (3^D,,G,^A,,  (3D,,G,A,,  (3D,,A,A,,| \
+ (3^D,,DG,  (3^A,,GA,  (3D,AA,| \
+ (3A,,C^F,  (3B,,D^G,  (3^C,E^A,|
+ (3^D,^FC  (3=F,^G=D  (3=G,^AE| \
+ (3^G,GF  (3CGF  (3G,GF| \
+ (3F,^d^G  (3DdG  (3G,dG| \
+ (3^G,,GF  (3CGF  (3F,G^D|
+ (3^A,,^D^G,  (3F,=DG,  (3A,,A,G,| \
+ (3^D,,G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^A,A,,  (3D,,A,A,,  (3D,,A,A,,|
+ (3^D,,^G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^A,A,,  (3D,,A,A,,  (3G,,A,D,| \
+ (3G,,FB,  (3D,FB,  (3C,^DG,| \
+ (3A,,^D^F,  (3D,DF,  (3^G,,DF,|
+ (3^A,,D^G,  (3F,DG,  (3A,,A,G,| \
+ (3^D,,G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^A,A,,  (3D,,A,A,,  (3D,,A,A,,|
+ (3^D,,^G,^A,,  (3D,,A,A,,  (3D,,A,A,,| \
+ (3^D,,^A,A,,  (3D,,A,A,,  (3D,,A,D,| \
+ (3G,,,B,F,  (3G,,B,F, ^G,,/2B,/2z/2E,/2-| \
+[E,-A,,]/2[^CE,-]/2E,/2E,/2- [E,-A,,]/2[=CE,-]/2E,/2F,/2- [F,-A,,]/2[^DF,-]/2F,/2^F,/2-|
+[^F,-^A,,]/2[^DF,-]/2F,/2 (3F,A,,D (3G,A,,,^G,A,,/2| \
+ (3^D,,G,^A,,  (3D,,A,A,,  (3D,,G,A,,| \
+ (3^D,,^A,A,,  (3D,,G,A,,  (3D,,A,A,,| \
+ (3^D,,G,^A,,  (3D,,A,A,,  (3D,,G,A,,|
+ (3^D,,^A,A,,  (3D,,G,A,,  (3D,,A,A,,| \
+^D,,2 z4| \
+[g^d^AG]2 z4| \
+[^D,^A,,D,,]6|

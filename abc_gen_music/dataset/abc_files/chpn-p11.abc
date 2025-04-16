@@ -1,0 +1,65 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p11.mid
+M: 6/8
+L: 1/8
+Q:1/4=111
+K:B % 5 sharps
+V:1
+%%MIDI program 0
+f6| \
+=f^fg fed| \
+[cE]F/2A/2G FFd| \
+[cE]F/2A/2G FFd|
+[cE]F[BD] F[dB]F| \
+[=fB][^fF][gB] [fF][eB][dF]| \
+[cE]F/2A/2G FFd| \
+[cE]F/2A/2G FFd|
+[cE]F[BD] F[dB]F| \
+[fB]F[=gB] G[^gB]G| \
+[bd]d/2f/2e dB[bg]| \
+[af]dA/2c/2 BA[fd]|
+[B-G][B-E]/2[B-G]/2[B-F] [B-E][BG-][cG]| \
+[d-B][d-D][d-F] [d-D][d-F][dG]| \
+[cE]F/2>G/2[AG-]/2G/2 FFd| \
+[cE]F/2>G/2[AG-]/2G/2 FFd|
+[cE]F[BD] F[dB]F| \
+[=fB][^fF][gB] [fF][eB][dF]| \
+[cE]F/2>G/2[AG-]/2G/2 FFd| \
+[cE]F/2>G/2[AG-]/2G/2 FFf|
+[fD-]6| \
+[=f-D]/2f/2^fg fed| \
+d3 [=d=G]^de| \
+[dG-][cG-][BG] [dE-][cE-][BE]|
+[BD]6| \
+[FD]6| \
+D6|
+V:2
+%%MIDI program 0
+K:C % 0 sharps
+z6| \
+z6| \
+^A,^F,^C, F,,C,F,| \
+^A,^F,^C, F,,C,F,|
+B,,^F,B,, F,^D,B,| \
+^D^F,B, D,F,B,,| \
+^A,^F,^C, F,,C,F,| \
+^A,^F,^C, F,,C,F,|
+B,,^F,B,, F,^D,B,| \
+^D^F,^C E,B,D,| \
+^G,,^D,D G,DB,| \
+^D,^F^A, F,DA,|
+E,,B,B,, ^G,B,E,| \
+B,,F,^F, ^CB,^G,| \
+^A,^F,^C, F,,C,F,| \
+^A,^F,^C, F,,C,F,|
+B,,,^F,,B,, F,^D,B,| \
+D^DE D^CB,| \
+^A,z^C, ^F,,C,F,| \
+^A,^F,^C, F,,C,A,|
+[^F,B,,]6| \
+z6| \
+z3 [^A,^D,]3| \
+[B,^G,]3 [^A,^F,]3|
+[^F,B,,]6| \
+[^F,-B,,B,,,]3 [F,F,,F,,,]3| \
+[B,^F,B,,B,,,]6|

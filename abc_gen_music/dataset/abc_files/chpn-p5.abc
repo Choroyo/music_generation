@@ -1,0 +1,89 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p5.mid
+M: 3/8
+L: 1/16
+Q:1/4=105
+K:D % 2 sharps
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+BA ^CB- [eB]A| \
+^C^A- [eA]=A CB-| \
+[eB]A ^C^A- [eA]=A| \
+^CB- [eB]A C^F|
+DA, ^A,B, [^F^C]E| \
+Dd ^FA [^c^G]B| \
+EA F^F [^c^G]B| \
+Ae EA [c^D]B|
+B,E CE [G^D]^F| \
+Ee GB [d^A]^c| \
+B^F GB [d^A]^c| \
+Bb ^gd ^cB|
+^A^f/2z/2 B^g/2z/2 =Fa/2z/2| \
+^A^f/2z/2 B^g/2z/2 =Fa/2z/2| \
+^A^f/2z/2 B^g/2z/2 =Fa/2z/2| \
+^A^f/2z/2 B^g/2z/2 =F=a/2z/2|
+^fF ^CB- [eB]A| \
+^C^A- [eA]=A CB-| \
+[eB]A ^C^A- [eA]=A| \
+^CB- [eB]A C^F|
+DA, ^A,B, [G^C]^F| \
+Dd ^FA [c^G]B| \
+EA FA [c^G]B| \
+Ae EA [c^D]B|
+B,E CE [G^D]^F| \
+Ee GB [d^A]^c| \
+B^F GB [d^A]^c| \
+Bb ^gd ^cB|
+Ad/2z/2 Ge/2z/2 ^C^f/2z/2| \
+^Fd/2z/2 Ge/2z/2 ^Cf/2z/2| \
+^Fd/2z/2 Ge/2z/2 ^Cf/2z/2| \
+^Fd/2z/2 Ge/2z/2 ^Cf/2z/2|
+^Fd D^A- [eA]=A| \
+DG- [dG-]/2G/2^F- [FD]^A-| \
+[d^A-]/2A/2=A- [AD]G- [dG-]/2G/2^F| \
+D^A- [dA-]/2A/2=A- [AD]d|
+^f'z4z/2G/2-| \
+[ae-G]e/2z4z/2| \
+[^fdF]
+V:2
+%%MIDI program 0
+z2 G,A,, G,E| \
+G,A,, G,E/2z/2 G,A,,| \
+G,E/2z/2 G,A,, G,E/2z/2| \
+A,A,, G,E/2z/2 G,A,|
+D,,^F, G,G,, A,,G,| \
+^F,B,, DF, E,D| \
+^CA, DD, E,D| \
+^C=C ^F,A,, B,,A,|
+G,E,, A,,A, B,,A,| \
+G,E, EG, ^F,E| \
+DB,, E,E ^F,E| \
+DF, B,^G ^CD|
+^C^F,/2z/2 DD,/2z/2 CC,/2z/2| \
+^F,,^C/2z/2 DB,,/2z/2 CC,/2z/2| \
+^F,,^C/2z/2 DB,,/2z/2 CC,/2z/2| \
+^F,,^C/2z/2 DB,,/2z/2 CC,/2z/2|
+^F,,A, G,A,, G,E| \
+G,A,, G,E/2z/2 G,A,,| \
+G,E/2z/2 G,A,, G,E/2z/2| \
+[A,G,]A,, G,E/2z/2 G,A,|
+D,,^F, G,G,, A,,A,| \
+^F,B,, D=F, E,D| \
+CA, DD, E,D| \
+^C=C ^F,A,, B,,A,|
+G,E,, A,,A, B,,A,| \
+G,E, EG, ^F,E| \
+DB,, E,E ^F,E| \
+DF, B,^G ^CD|
+^F,D/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2| \
+D,,A,/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2| \
+D,,A,/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2| \
+D,,A,/2z/2 ^A,G,,/2z/2 =A,A,,/2z/2|
+D,,A,, A,A,, D,,A,,| \
+A,A,, D,,/2z/2A,, A,A,,| \
+D,,A,,/2z/2 A,A,, D,,/2z/2A,,| \
+A,A,, D,,/2z/2A,, A,A,,|
+D,,z4[E,-A,,-]/2[^C-E,-A,,-]/2| \
+[^C-E,A,,-]/2[CA,,]/2z4z/2D,,/2| \
+[DA,D,]/2

@@ -1,0 +1,128 @@
+X: 1
+T: from ./dataset/original_midi/albeniz/alb_esp1.mid
+M: 3/4
+L: 1/8
+Q:1/4=93
+K:F % 1 flats
+V:1
+%%MIDI program 0
+K:C % 0 sharps
+za e'4-| \
+e'2- e'/2d'/2[e'd'-]/2d'/2 c'd'| \
+e'f' g'e' f'e'/2>d'/2| \
+[e'd'-]/2d'3/2 c'2 ^a2|
+zA, ^CE Ac| \
+eA ^ce ac'| \
+e'^c' ae cA| \
+e^c AE CA,|
+za e'4-| \
+e'2- e'/2d'/2[e'd'-]/2d'/2 c'd'| \
+e'f' g'e' f'e'/2>d'/2| \
+[e'd'-]/2d'3/2 c'2 ^a2|
+a^a c'd' f'3/2d'/2| \
+[e'd'-]/2d'3/2 c'2 ^a2| \
+a^a c'd' e'g'| \
+f'/2>d'/2[e'd'-]/2d'/2 c'^a d'^c'|
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2| \
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[^AD-]/2D/2-[=AD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[GD-]/2D/2-[ED]/2|
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[GA,-]/2A,/2-[FA,]/2 z/2[GA,-]/2A,/2-[FA,]/2 z/2[GA,-]/2A,/2-[FA,]/2| \
+z/2[FC-]/2C/2-[EC]/2 z/2[FC-]/2C/2-[EC]/2 z/2[FC-]/2C/2-[EC]/2| \
+z/2[E^A,-]/2A,/2-[DA,]/2 z/2[EA,-]/2A,/2-[DA,]/2 z/2[EA,-]/2A,/2-[DA,]/2|
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2| \
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2|
+za b^c' d'e'| \
+f'3/2[f'e']/2 e'd' c'd'| \
+e'f' g'e' f'e'/2>d'/2| \
+[e'd'-]/2d'3/2 c'2 ^a2|
+ab ^c'd' e'f'| \
+g'a'/2>^a'/2 [c''a'-]/2a'3/2 =a'g'| \
+a'2 a'g' ^a'=a'/2>f'/2| \
+[g'f'-]/2f'/2^d' =d'e' c'^a|
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[AD-]/2D/2-[GD]/2| \
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[^AD-]/2D/2-[=AD]/2 z/2[AD-]/2D/2-[GD]/2 z/2[GD-]/2D/2-[ED]/2|
+z/2[^A^C-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2 z/2[^AC-]/2C/2-[=AC]/2| \
+z/2[GA,-]/2A,/2-[FA,]/2 z/2[GA,-]/2A,/2-[FA,]/2 z/2[GA,-]/2A,/2-[FA,]/2| \
+z/2[FC-]/2C/2-[EC]/2 z/2[FC-]/2C/2-[EC]/2 z/2[FC-]/2C/2-[EC]/2| \
+z/2[E^A,-]/2A,/2-[DA,]/2 z/2[EA,-]/2A,/2-[DA,]/2 z/2[EA,-]/2A,/2-[DA,]/2|
+z4 [E^C]2| \
+z2 [ED^A,]z3| \
+z4 [E^C]2| \
+z2 [ED^A,]z3|
+[e^A]6| \
+^a6-| \
+^ac' d'f' d'c'/2>c'/2| \
+[d'c'-]/2c'/2^a fa =a2-|
+a2 ^gf ed| \
+zA, ^CE Ac| \
+eA ^ce ac'| \
+e'A ^ce ac'|
+e'a ^c'e' a'c''| \
+[a''e''a']6|
+V:2
+%%clef treble
+%%MIDI program 0
+zA, E4-| \
+E2- E/2D/2[ED-]/2D/2 CD| \
+EF GE FE/2>D/2| \
+[ED-]/2D3/2 C2 ^A,2|
+A,,E, A,^C EA| \
+^cC EA ce| \
+ae ^cA EC| \
+AE ^CA, A,E,|
+A,,A, E4-| \
+E2- E/2D/2[ED-]/2D/2 CD| \
+EF GE FE/2>D/2| \
+[ED-]/2D3/2 C2 ^A,2|
+A,^A, CD F3/2D/2| \
+[ED-]/2D3/2 C2 ^A,2| \
+A,^A, CD EG| \
+F/2>D/2[ED-]/2D/2 C^A, D^C|
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2| \
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2|
+A,,2 E,2 A,2| \
+F,,2 C,2 A,/2z3/2| \
+C,2 G,2 C/2z3/2| \
+G,/2z3/2 A,/2z3/2 [C^A,]/2z3/2|
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2| \
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2|
+A,,A, B,^C DE| \
+F3/2E/2 [FE-]/2E/2D CD| \
+EF GE FE/2>D/2| \
+[ED-]/2D3/2 C2 ^A,2|
+A,B, ^CD EF| \
+GA/2>^A/2 [cA-]/2A3/2 =AG| \
+A2 AG ^A=A/2>F/2| \
+[GF-]/2F/2^D =DE C^A,|
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2| \
+A,,2 E,2 A,2| \
+A,,2 E,2 ^A,2|
+A,,2 E,2 A,2| \
+F,,2 C,2 A,/2z3/2| \
+C,2 G,2 C/2z3/2| \
+G,/2z3/2 A,/2z3/2 [C^A,]/2z3/2|
+A,,2 E,2 A,2| \
+ (3D,E,F,  (3G,A,^A,  (3CA,=A,| \
+A,,2 E,2 A,2| \
+ (3D,E,F,  (3G,A,^A,  (3CA,=A,|
+[D^G,]6| \
+^A,6-| \
+^A,C DF DC/2>C/2| \
+[DC-]/2C/2^A, F,A, =A,2-|
+A,2 ^G,F, E,D,| \
+A,,E, A,^C EA| \
+^cC EA ce| \
+a^C EA ce|
+a^c ea c'e'| \
+[^c'eA]6|

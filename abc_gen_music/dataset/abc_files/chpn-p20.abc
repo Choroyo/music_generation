@@ -1,0 +1,38 @@
+X: 1
+T: from ./dataset/original_midi/chopin/chpn-p20.mid
+M: 4/4
+L: 1/8
+Q:1/4=42
+K:Eb % 3 flats
+V:1
+%%clef treble
+%%MIDI program 0
+K:C % 0 sharps
+[G^DCG,]2 [^GDCG,]2 [=GDB,-G,-]3/2[F=DB,G,]/2 [^DCG,D,]2| \
+[^DC^G,D,]2 [F^CG,F,]2 [D=C=G,-D,-^C,-]3/2[C^A,G,D,C,]/2 [=C^G,D,C,]2| \
+[DB,F,D,]2 [EC^A,G,E,]2 [GC-^G,-]3/2[FCG,]/2 [^DC=G,]2| \
+[DC^F,]2 [GDB,G,]2 [BF-D-C-]3/2[AFDC]/2 [GDB,]2|
+[^dGD]2 [d^GD]2 [=d-GD-]3/2[d^FD]/2 [d=GD]2| \
+[cGC]2 [d^FDC]2 [BGD]3/2[AC]/2 [GDB,]2| \
+[cGC]2 [^GCG,]2 [=GD-G,-]3/2[FDG,]/2 [^DCG,]2| \
+[^DC^G,D,]2 [F^CG,F,]2 [DB,-=G,-F,-]3/2[=DB,G,F,]/2 [=CG,^D,]2|
+[^dGD]2 [d^GD]2 [=d-GD-]3/2[d^FD]/2 [d=GD]2| \
+[cGC]2 [d^FDC]2 [BGD]3/2[AC]/2 [GDB,]2| \
+[cGC]2 [^GCG,]2 [=GD-G,-]3/2[FDG,]/2 [^DCG,]2| \
+[^DC^G,D,]2 [F^CG,F,]2 [DB,-=G,-F,-]3/2[=DB,G,F,]/2 [=CG,^D,]2|
+[cG^DC]8|
+V:2
+%%MIDI program 0
+[C,C,,]2 [F,,F,,,]2 [G,,G,,,]2 [C,G,,C,,]2| \
+[^G,,G,,,]2 [^C,,C,,,]2 [^D,,D,,,]2 [G,,G,,,]2| \
+[G,,G,,,]2 [C,,C,,,]2 [F,,F,,,]2 [C,C,,]2| \
+[D,A,,D,,]2 [G,,G,,,]2 [D,,D,,,]2 [G,,G,,,]2|
+[C,C,,]2 [CC,]2 [B,B,,]2 [^A,A,,]2| \
+[A,A,,]2 [^G,G,,]2 [=G,G,,]2 [F,F,,]2| \
+[^D,D,,]2 [F,F,,]2 [B,,B,,,]2 [C,C,,]2| \
+[^G,,G,,,]2 [^C,,C,,,]2 [=G,,G,,,]2 [=C,,C,,,]2|
+[C,C,,]2 [CC,]2 [B,B,,]2 [^A,A,,]2| \
+[A,A,,]2 [^G,G,,]2 [=G,G,,]2 [F,F,,]2| \
+[^D,D,,]2 [F,F,,]2 [B,,B,,,]2 [C,C,,]2| \
+[^G,,G,,,]2 [^C,,C,,,]2 [=G,,G,,,]2 [=C,,C,,,]2|
+[G,C,]8|
