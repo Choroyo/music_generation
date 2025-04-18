@@ -1,0 +1,22 @@
+STEP 1000] ¡This is training!
+{'loss': 5.3306, 'grad_norm': 5.9764628410339355, 'learning_rate': 4.929994388327722e-05, 'epoch': 0.14}
+
+
+STEP 3000] ¡This is training!
+{'loss': 3.6108, 'grad_norm': 5.001264572143555, 'learning_rate': 4.649410774410774e-05, 'epoch': 0.42}         
+
+{
+      "epoch": 0.5533651518295636,
+      "grad_norm": 5.296065807342529,
+      "learning_rate": 4.509118967452301e-05,
+      "loss": 3.1868,
+      "step": 4000
+    }
+
+    {
+      "epoch": 0.6917064397869545,
+      "grad_norm": 5.170293807983398,
+      "learning_rate": 4.368827160493827e-05,
+      "loss": 2.8082,
+      "step": 5000
+    }
