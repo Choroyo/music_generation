@@ -1,0 +1,13 @@
+X: 1
+T: from gen
+M: 3/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Phrygian mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI program 0
+C =E C C,/2 ^D,/2 ^D,/2 G,/2 C, =G,3/2 C, C =G,3 C/2 ^G,/2 C E =C G,/2 G,/2 C/2 C C,/2 G, C/2 C C,/2 C/2 A C/2 C/2 ^A,/2 C =A,/2 A, |
+A, =G G,/2 C C C,2 C3 C/2 A A,/2 A,/2 A A,/2 =G/2 ^D/2 A,/2 B A,/2 G,/2 B C G,/2 A E B, B B,/2 B,/2 D E C B,/2 C/2 D G D/2 D/2 C/2 A E C/2 D C/2 G E/2 C/2 E A E/2 A/2 c/2 c C/2 c/2 e/2 c C |
+C/2 A E/2 A/2 =A/2 B A/2 B c/2 f c/2 f/2 E c E/2 c/2 E/2 B E B/2 c/2 d c/2 d f'/2 d/2 d F/2 d f/2 f e/2 e/2 d'/2 d' d/2 d'/2 c'/2 d' c'/2 d'/2 ^g'/2 g' g/2 g'/2 =g'/2 g' d'/2 g' d'/2 g'/2 ^g' =g' ] g'/2 f'/2 e'/2 g'/2 f' |
+e'/2 e' ^d'/2 d'/2 e' e' c'/2 e' c'

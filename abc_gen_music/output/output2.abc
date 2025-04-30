@@ -1,0 +1,8 @@
+X:1
+T:Generated Tune
+M:4/4
+L:1/8
+Q:1/4=60
+K:A
+%%MIDI program 0
+=G=GC/2B^G/2=dAG/2^dAA,/2^GFC/2AA,^d=cGDB,/2=cC/2dDC2 | GDB,63^G=GABc=c/2AG=FB,2A/2^G/2AD/2GCA,/2GECA,/2A=GDB,/2EDA, =c^DA,/2AECA,G,G,,4CC,,63^A,2/2^D6 G,,,2-A,,/2^g=GDA,,/2GD^GD2z/2^GD=D A,,/2^g'/2g'g/2g'3/2C,/2g'd'/2^g'd'/2=g'a=g'=g/2^d']/2b'^g/2=d''d'/2c''c'/2d''d' d''d'/2^f'/2f'f/2f'd'/2=f'/2a'f'/2a'/2^a'/2c''=a/2c''a'3a/2a'f'a/2a'g'a/2=g'/2^d' g'/2g'f'/2g'f/2f'f f'f/2e'g/2^d'=g/2e'g/2^d'f/2=d'f/2c'^g/2c'g/2c'g e'g/2b^g/2=c'^g/2b=g/2=c'g ^g=g/2^g=f/2B-]/2gB/2fB/2^gB/2bB aB=G/2dBGF/2cBGF/2BF/2=GF/2cC/2cC/2AC/2d (3E-A,-]/2A (3E/2^D/2^FD]/2B B,,/2B,/2D/2B,/2^G, c''/2B^GA=AEBB,/2D/2BDB=GB^A=GB, C/2c=C E/2G=G_D/2BGB,/2AEC/2BB,/2=GEB,/2C b'g'c'-c,-]/2G^F=G ]/2=AFCB,cG=DB,A,/2FCA,GDB,A,/2=G=GEG, _AFB, AE^CC^A,/2BFA, cA,/2GD^A,G, cADB,/2BFDCG,/2BGE/2GFEB,A,/2GG,/2GE=A,/2BDB,/2ACA, BFCB,A,AFA,cCCB_A,BGDB,A,F,/2GD^A, cCBFA,G,/2BG,/2AE^A,/2AFCB,/2d=GEDA,G,/2AGDCF,/2GE^DCB,^A,G,/2BDCA,G,F,D, BEA,/2

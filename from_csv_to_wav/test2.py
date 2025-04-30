@@ -12,4 +12,4 @@ def midi_to_wav(midi_file, soundfont, output_wav):
     subprocess.run(command, check=True)
 
 # Example usage
-midi_to_wav("debussy.mid", "FluidR3_GM.sf2", "debussy.wav")
+midi_to_wav("", "FluidR3_GM.sf2", "input.wav")

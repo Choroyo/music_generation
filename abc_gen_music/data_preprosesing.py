@@ -62,5 +62,5 @@ def convert_folder_midi_to_abc(midi_folder, abc_output_folder):
             midi_to_abc(midi_path, abc_path)
 
 #convert_folder_midi_to_abc("./dataset/transposed_midi", "./dataset/abc_dataset")
-load_and_clean_abc_files("./dataset/abc_dataset")
-
+#load_and_clean_abc_files("./dataset/abc_dataset")
+midi_to_abc("bethoven.mid", "./dataset/input2.abc")
